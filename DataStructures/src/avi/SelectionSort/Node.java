@@ -1,7 +1,7 @@
 /**
  * 
  */
-package avi.assignment2;
+package avi.SelectionSort;
 
 /**
  * @author avinash

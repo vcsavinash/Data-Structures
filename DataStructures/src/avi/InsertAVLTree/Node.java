@@ -1,7 +1,7 @@
 /**
  * 
  */
-package avi.assignment3;
+package avi.InsertAVLTree;
 
 /**
  * @author avinash

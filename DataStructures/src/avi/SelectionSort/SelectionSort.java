@@ -1,9 +1,9 @@
 /**
  * 
  */
-package avi.assignment2;
+package avi.SelectionSort;
 
-import avi.assignment2.Node;
+import avi.SelectionSort.Node;
 
 /**
  * @author avinash

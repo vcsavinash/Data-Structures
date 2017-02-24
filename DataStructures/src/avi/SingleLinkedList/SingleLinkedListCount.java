@@ -1,9 +1,9 @@
 /**
  * 
  */
-package avi.assignment;
+package avi.SingleLinkedList;
 
-import avi.assignment.Node;
+import avi.SingleLinkedList.Node;
 
 /**
  * This class is for getting the count of number of 5's in the list.

@@ -1,14 +1,14 @@
 /**
  * 
  */
-package avi.assignment5;
+package avi.DijkstraAlgorithm;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.PriorityQueue;
 
-import avi.assignment5.Edge;
-import avi.assignment5.Node;
+import avi.DijkstraAlgorithm.Edge;
+import avi.DijkstraAlgorithm.Node;
 
 /**
  * @author avinash

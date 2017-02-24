@@ -1,7 +1,7 @@
 /**
  * 
  */
-package avi.assignment4;
+package avi.GraphTraversal;
 
 import java.util.LinkedList;
 
