@@ -1,9 +1,9 @@
 /**
  * 
  */
-package avi.assignment;
+package avi.SingleLinkedList;
 
-import avi.assignment.Node;
+import avi.SingleLinkedList.Node;
 
 /**
  * @author avinash

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package avi.assignment;
+package avi.SingleLinkedList;
 
 /**
  * This Class is for traversing the integer values in the list.

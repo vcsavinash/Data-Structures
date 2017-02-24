@@ -1,7 +1,7 @@
 /**
  * 
  */
-package avi.assignment5;
+package avi.DijkstraAlgorithm;
 
 /**
  * @author avinash

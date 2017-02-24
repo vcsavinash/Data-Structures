@@ -1,4 +1,4 @@
-package avi.assignment6;
+package avi.HashMap;
 
 public class StudentDetails {
 
